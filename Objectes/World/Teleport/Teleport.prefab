@@ -124,7 +124,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   destination: {fileID: 0}
   destinationScene: 
-  fases: []
+  fases:
+    fase0: 1
+    fase1: 1
+    fase2: 1
+    fase3: 1
+    fase4: 1
+    fase5: 1
+    fase6: 1
+    fase7: 1
 --- !u!114 &-1480331407282947935
 MonoBehaviour:
   m_ObjectHideFlags: 0
